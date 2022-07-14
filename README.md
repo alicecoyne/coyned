@@ -1,22 +1,5 @@
-# coyned
-
-<!DOCTYPE html>
-<html>
-<head>
-<title>Vaibhav Hariramani, A tech Blogger</title>
-</head>
-<body>
-<nav>
-   
-<div >
-    <h1>Hi there, I'm Vaibhav Hariramani!</h1>
-    <p> <a href="/about">Read more about my life...</a></p>
-</div>
-<footer>
-<ul>
- <li><a href="mailto:vaibhav.hariramani01@gmail.com">email</a></li>
- <li><a href="https://github.com/vaibhavhariaramani">Github</a></li>
-</ul>
-</footer>
-</body>
-</html>
+cd coyned.github.io
+echo "Hello World" > index.html
+git add --all
+git commit -m "Initial commit"
+git push -u origin master
